@@ -6,6 +6,6 @@
 - Armazena um histórico do jogo à medida que ele avança;
 - Permite aos jogadores revisarem o histórico do jogo e verem versões anteriores do tabuleiro.
 
-![image](https://user-images.githubusercontent.com/48361825/211060061-284669ee-b02f-4944-8a75-4e1d45f921af.png)
+![image](https://user-images.githubusercontent.com/48361825/211060226-39e1ea90-63b3-48aa-b9b8-2216a7b92683.png)
 
-![image](https://user-images.githubusercontent.com/48361825/211060123-d9e83797-cc35-40e5-85cc-fa6aebfeaecb.png)
+![image](https://user-images.githubusercontent.com/48361825/211060184-811fb5d1-e380-4d8c-a2e5-be400c41aa88.png)
